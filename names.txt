@@ -1,3 +1,4 @@
+aba
 ababio
 abam
 abeeku
@@ -54,6 +55,7 @@ angela
 antobam
 araba
 ato
+atoapem
 awan
 awesi
 awisi
@@ -61,6 +63,7 @@ awo
 awusi
 bediako
 boahinmaa
+bobo
 botwe
 bubune
 charles
@@ -81,6 +84,7 @@ dzifa
 ebo
 effia
 efia
+efie
 efua
 ejo
 ekow
@@ -115,7 +119,9 @@ kisi
 klenam
 kobby
 kobe
+kobena
 kobi
+kobie
 kobina
 kobla
 kodzo
@@ -133,6 +139,7 @@ kukua
 kuuku
 kuukuwa
 kwabena
+kwabina
 kwabla
 kwadwo
 kwadzo
@@ -147,6 +154,7 @@ kwasiwa
 kwaw
 kweku
 kwesi
+kwodwo
 kwoi
 likem
 lumusi
@@ -168,6 +176,7 @@ nkrumah
 nyakpoo
 nyankomago
 ozigbodi
+siisi
 sisi
 tawiah
 tsoenamawu
@@ -186,6 +195,7 @@ yawa
 yawo
 ye
 yehowada
+yokow
 yomawu
 yoofi
 zuhrah
